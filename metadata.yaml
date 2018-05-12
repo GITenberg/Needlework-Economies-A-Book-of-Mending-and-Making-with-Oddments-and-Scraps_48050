@@ -1,10 +1,14 @@
 _repo: Needlework-Economies-A-Book-of-Mending-and-Making-with-Oddments-and-Scraps_48050
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Klickmann, Flora
       gutenberg_agent_id: '8014'
       url: http://www.gutenberg.org/2009/agents/8014
+covers:
+- cover_type: archival
+  image_path: 48050-h/images/back_cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48050#Needlework-Economies-A-Book-of-Mending-and-Making-with-Oddments-and-Scraps
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
